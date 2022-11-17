@@ -7,7 +7,7 @@ Recommended stack: React, TypeScript, SCSS Modules or Styled Components ( scoped
 3. Display, filter, paginate and sort tasks;
 4. Drop a link to GitHub;
 
-Post display should be for authorized users only.
+Task display should be for authorized users only.
 
 
 # Описание задач:
@@ -16,4 +16,4 @@ Post display should be for authorized users only.
 3. Отображение, фильтрация, пагинация и сортировка задач;
 4. Скинуть ссылку на GitHub;
 
-Отображение постов должно быть только для авторизированных юзеров.
+Отображение задач должно быть только для авторизированных юзеров.
